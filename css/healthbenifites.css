@@ -1,0 +1,22 @@
+.Contact h3{
+    text-align: center;
+    font-size: 150%;
+    font-family: ANTONIO;
+}
+
+.Contact p{
+    font-size: larger;
+    font-family: SOFIA PRO
+}
+
+.Contact li{
+    font-size: large;
+    font-family: MONTSERRAT;
+}
+
+.Contact dd{
+    font-size: medium;
+    font-family: initial;
+    
+}
+
